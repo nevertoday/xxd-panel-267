@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-267
-description: "Create XXD Panel 267 raster artwork: a faithful photograph paired with a small textile emblem of denim, canvas or fiber, with stitch, patching, wear and a frayed edge. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-267 or asks for this 织物徽章 style."
+description: "XXD Panel 267｜Fabric Badge: remakes the subject of a photo as one small handcrafted textile badge, like a fabric-relief fragment in a museum collection — a simple symbolic outline in a few layers of denim, canvas, woven cloth or natural fibre, with visible stitching, patchwork seams, rivets or joins, light wear, uneven dye, frayed raw edges and handmade error, in bright clear colours drawn from the photo (sky blue, lake teal, fresh green, warm yellow, coral orange, peach pink) against generous warm white and natural off-white cloth, the badge floating quietly, centred, off-centre or cropped in extreme white space, with a small museum-label style title, number or note. Not a flat print, sticker effect or plastic material. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-267 or asks for textile art, denim patch, embroidered or fabric badge design from a photo."
 ---
 
 # XXD Panel 267

@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 267｜Fabric Badge: remakes the subject of a photo as one small handcrafted textile badge, like a fabric-relief fragment in a museum collection — a simple symbolic outline in a few layers of denim, canvas, woven cloth or natural fibre, with visible stitching, patchwork seams, rivets or joins, light wear, uneven dye, frayed raw edges and handmade error, in bright clear colours drawn from the photo (sky blue, lake teal, fresh green, warm yellow, coral orange, peach pink) against generous warm white and natural off-white cloth, the badge floating quietly, centred, off-centre or cropped in extreme white space, with a small museum-label style title, number or note. Not a flat print, sticker effect or plastic material. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-267 or asks for textile art, denim patch, embroidered or fabric badge design from a photo.",
+  "short_description": "织物徽章：把照片主体收成一枚布料、缝线和毛边做成的小型艺术徽章",
+  "zh-CN": {
+    "name": "织物徽章",
+    "tagline": "把照片主体做成一枚小小的布艺徽章：牛仔布、缝线、拼接和毛边。",
+    "look": "主体被压成一个简洁、符号化的轮廓，用牛仔布、帆布、织物或天然纤维做成一枚小型艺术徽章，层次不多。看得见织物纤维、缝线、拼接、铆钉或连接处、轻微磨损、不均匀染色和毛边，像真实存在的布面艺术品或博物馆里的纺织片段，而不是印上去的图案。颜色比原照更亮更清：天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉，衬着大片暖白和天然布料的米白，一点暖橙或金黄点睛。徽章很小，安静地悬在纯净空间里，可居中、偏心或被裁切，旁边有一行像博物馆标签的小字、编号或注释。",
+    "traits": ["织物徽章", "布料浮雕", "缝线毛边", "小尺度收藏", "极端留白", "牛仔布纹"],
+    "good": [
+      "轮廓简单好认的主体：一只鲸鱼、一朵花、一辆小汽车、一座房子",
+      "有文化或身份意味的对象：一座山、一只本地动物、一件乐器",
+      "想做成刺绣布章、品牌收藏系列或展览标签视觉的照片"
+    ],
+    "poor": [
+      "细节、文字或纹样很多的主体，布料做不出这些细节",
+      "想保留完整场景、写实光影或照片质感的需求",
+      "想要平面印花、贴图效果、塑料质感或灰暗做旧色调的需求"
+    ]
+  },
+  "en": {
+    "name": "Fabric Badge",
+    "tagline": "Makes the subject of your photo into one small cloth badge: denim, stitching, patchwork and a frayed edge.",
+    "look": "The subject is pressed into a simple, symbolic outline and made into a small art badge of denim, canvas, woven cloth or natural fibre, in just a few layers. You can see the fibres, stitching, patchwork seams, rivets or joins, light wear, uneven dye and frayed edges, so it reads as a real piece of textile art or a fabric fragment in a museum, not a printed pattern. Colours are brighter and clearer than the photo: sky blue, lake teal, fresh green, warm yellow, coral orange, peach pink, set against plenty of warm white and natural off-white cloth, with a touch of warm orange or gold. The badge is small and floats quietly in clean space, centred, off-centre or cropped, with a line of small museum-label text, a number or a note beside it.",
+    "traits": ["Fabric badge", "Textile relief", "Stitching and raw edges", "Small collectible", "Extreme white space", "Denim texture"],
+    "good": [
+      "Subjects with a simple, recognisable outline: a whale, a flower, a small car, a house",
+      "Subjects with cultural or identity meaning: a mountain, a local animal, a musical instrument",
+      "Photos you want as an embroidered patch, a brand collection piece or an exhibition-label visual"
+    ],
+    "poor": [
+      "Subjects full of fine detail, text or pattern, which cloth cannot carry",
+      "Wanting the full scene, realistic lighting or a photographic finish kept",
+      "Requests for a flat print, sticker effect, plastic material or dull aged colours"
+    ]
+  },
+  "ja": {
+    "name": "布のバッジ",
+    "tagline": "写真の主役を小さな布のバッジにします。デニム、ステッチ、パッチワーク、ほつれた縁。",
+    "look": "主役はシンプルで記号的な輪郭にまとめられ、デニム、キャンバス、織物、天然繊維でつくった小さなアートバッジになります。重なりは数層だけです。繊維、縫い目、継ぎはぎ、リベットやつなぎ目、軽いすり切れ、染めむら、ほつれた縁が見え、印刷した模様ではなく、実在する布の作品や博物館の染織の断片のように見えます。色は写真より明るく澄んでいます：空色、湖の青緑、若葉の緑、暖かな黄色、コーラルオレンジ、ピーチピンク。たっぷりの温かな白と生成りの天然布を背に、暖かいオレンジや金色をひと差し。バッジは小さく、澄んだ空間に静かに浮かび、中央でも、ずらしても、切れてもよく、そばには博物館のラベルのような小さな文字、番号、注記を一行添えます。",
+    "traits": ["布のバッジ", "布のレリーフ", "ステッチとほつれ", "小さなコレクション", "極端な余白", "デニムの質感"],
+    "good": [
+      "シンプルでわかりやすい輪郭の主役：クジラ、花、小さな車、家",
+      "文化やアイデンティティを感じるもの：山、その土地の動物、楽器",
+      "刺繍ワッペン、ブランドのコレクション、展示ラベルのビジュアルにしたい写真"
+    ],
+    "poor": [
+      "細部や文字、模様の多い主役（布ではそこまで表せません）",
+      "場面全体や写実的な光、写真らしい質感を残したい場合",
+      "平らなプリント、シール貼りのような効果、プラスチックの質感、くすんだ古びた色を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "패브릭 배지",
+    "tagline": "사진 속 주인공을 작은 천 배지로 만듭니다. 데님, 바느질, 패치워크, 올이 풀린 가장자리.",
+    "look": "주인공은 단순하고 상징적인 윤곽으로 눌러 담겨 데님, 캔버스, 직물, 천연 섬유로 만든 작은 아트 배지가 되며, 층은 몇 겹뿐입니다. 섬유, 바늘땀, 이어 붙인 솔기, 리벳이나 연결 부분, 살짝 닳은 자국, 고르지 않은 염색, 올이 풀린 가장자리가 보여, 인쇄한 무늬가 아니라 실제 천 작품이나 박물관의 직물 조각처럼 보입니다. 색은 사진보다 밝고 맑습니다: 하늘색, 호수 같은 청록, 연두, 따뜻한 노랑, 코랄 오렌지, 복숭아 분홍. 넉넉한 따뜻한 흰색과 천연 천의 미색을 배경으로 따뜻한 주황이나 금빛을 포인트로 둡니다. 배지는 작고 깨끗한 공간에 조용히 떠 있으며, 가운데에 두거나 비켜 두거나 잘려도 되고, 옆에는 박물관 라벨 같은 작은 글씨, 번호, 메모가 한 줄 놓입니다.",
+    "traits": ["패브릭 배지", "천 부조", "바느질과 올 풀림", "작은 소장품", "극단적 여백", "데님 질감"],
+    "good": [
+      "윤곽이 단순하고 알아보기 쉬운 주인공: 고래, 꽃, 작은 자동차, 집",
+      "문화나 정체성이 담긴 대상: 산, 그 지역의 동물, 악기",
+      "자수 패치, 브랜드 컬렉션, 전시 라벨 비주얼로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "세부, 글자, 무늬가 많은 주인공(천으로는 그만큼 표현할 수 없습니다)",
+      "장면 전체, 사실적인 빛, 사진 같은 질감을 살리고 싶은 경우",
+      "평면 프린트, 스티커 붙인 듯한 효과, 플라스틱 질감, 칙칙하게 낡은 색을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الشارة القماشية",
+    "tagline": "يصنع من عنصر صورتك شارة قماشية صغيرة: قماش الجينز، غرز الخياطة، الرقع، وحافة منسّلة.",
+    "look": "يُضغط العنصر في خط خارجي بسيط رمزي، ويُصنع منه شارة فنية صغيرة من قماش الجينز أو الكانفاس أو نسيج منسوج أو ألياف طبيعية، في طبقات قليلة فقط. تظهر الألياف وغرز الخياطة ووصلات الرقع والمسامير أو نقاط الربط والاهتراء الخفيف والصبغ غير المتساوي والحواف المنسّلة، فتبدو قطعة فنية نسيجية حقيقية أو شظية قماش في متحف، لا نقشاً مطبوعاً. الألوان أكثر إشراقاً وصفاءً من الصورة: أزرق السماء، أزرق البحيرة المخضر، أخضر غضّ، أصفر دافئ، برتقالي مرجاني، وردي خوخي، على خلفية واسعة من الأبيض الدافئ وأبيض القماش الطبيعي، مع لمسة برتقالية دافئة أو ذهبية. الشارة صغيرة تطفو بهدوء في فضاء نقي، في الوسط أو بعيداً عنه أو مقتطعة، وبجانبها سطر صغير كبطاقة متحف أو رقم أو ملاحظة.",
+    "traits": ["شارة قماشية", "نقش بارز من القماش", "غرز وحواف منسّلة", "مقتنى صغير", "فراغ أبيض شديد", "ملمس الجينز"],
+    "good": [
+      "عناصر بحدود بسيطة يسهل تمييزها: حوت، زهرة، سيارة صغيرة، بيت",
+      "عناصر تحمل معنى ثقافياً أو هوية: جبل، حيوان محلي، آلة موسيقية",
+      "صور تريدها رقعة مطرّزة أو قطعة في مجموعة علامة تجارية أو هوية لبطاقة معرض"
+    ],
+    "poor": [
+      "عناصر مليئة بالتفاصيل الدقيقة أو الكتابة أو النقوش، لا يستطيع القماش حملها",
+      "الرغبة في الاحتفاظ بالمشهد كاملاً أو بالإضاءة الواقعية أو بمظهر الصورة الفوتوغرافية",
+      "طلب طباعة مسطّحة أو مؤثر الملصقات أو خامة بلاستيكية أو ألوان قديمة باهتة"
+    ]
+  }
+}
